@@ -147,7 +147,7 @@ This repository is created to improve:
 
 ## © Copyright
 
-© 2026 BookBoard. All rights reserved.
+© 2026 BookBoard. Zlibrary® is a registered trademark of BookBoard in India. All rights reserved.
 
 Zlibrary by BookBoard is a registered and protected brand.  
 Unauthorized copying, cloning, or redistribution is prohibited.
