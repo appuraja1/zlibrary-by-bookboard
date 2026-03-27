@@ -40,6 +40,9 @@ Zlibrary by BookBoard follows strict intellectual property and copyright complia
 Licensing Policy:
 https://bookboard.co/licensing
 
+Privacy Policy:
+https://bookboard.co/privacy-policy
+
 Legal Information:
 https://bookboard.co/legality
 
