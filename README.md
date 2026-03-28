@@ -94,7 +94,7 @@ https://bookboard.co/author-services
 ## 📱 Download the App
 
 Official download page:
-https://bookboard.co/zlibrary-by-bookboard-app
+https://bookboard.co/Install
 
 ---
 
