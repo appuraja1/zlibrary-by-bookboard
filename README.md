@@ -1,4 +1,4 @@
-# Zlibrary by BookBoard
+# zLibrary by BookBoard
 
 Zlibrary by BookBoard is a modern ebooks, books and novels reading platform designed to provide a clean, fast, and legally compliant digital reading experience. The app focuses on accessibility, community-driven discovery, and structured content organization for readers worldwide.
 
@@ -9,6 +9,11 @@ This repository represents the official presence of Zlibrary by BookBoard to imp
 ## 📚 About the App
 
 Zlibrary by BookBoard is built for readers who want easy access to ebooks, books, and novels in a structured and user-friendly environment. The platform emphasizes legal compliance, author respect, and community guidelines.
+
+## 📱 Download the App
+
+Official download page:
+https://bookboard.co/Install
 
 Official App Page:
 https://bookboard.co/zlibrary-by-bookboard-app
