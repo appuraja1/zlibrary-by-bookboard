@@ -1,304 +1,154 @@
-# zLibrary by BookBoard
+# zLibrary by BookBoard® — Digital eBook, Novel & Comic Reader Platform
 
-Zlibrary by BookBoard is a modern ebooks, books and novels reading platform designed to provide a clean, fast, and legally compliant digital reading experience. The app focuses on accessibility, community-driven discovery, and structured content organization for readers worldwide.
+[![Platform](https://img.shields.io/badge/Platform-Android-3DDC84?style=flat&logo=android&logoColor=white)](https://bookboard.co/Install)
+[![Formats](https://img.shields.io/badge/Formats-EPUB%20%7C%20PDF%20%7C%20CBZ%20%7C%20CBR%20%7C%20TXT%20%7C%20HTML%20%7C%20Audio-blue)](https://bookboard.co/zlibrary-by-bookboard-app)
+[![Legal Compliance](https://img.shields.io/badge/Compliance-DMCA%20%7C%20Public%20Domain-brightgreen)](https://bookboard.co/copyright)
+[![Community](https://img.shields.io/badge/Community-BookBoard.co-orange)](https://bookboard.co)
 
-This repository represents the official presence of Zlibrary by BookBoard to improve transparency, visibility, and legal clarity.
-
----
-
-## 📚 About the App
-
-Zlibrary by BookBoard is built for readers who want easy access to ebooks, books, and novels in a structured and user-friendly environment. The platform emphasizes legal compliance, author respect, and community guidelines.
-
-## 📱 Download the App
-
-Official download page:
-https://bookboard.co/Install
-
-Official App Page:
-https://bookboard.co/zlibrary-by-bookboard-app
-
-About BookBoard:
-https://bookboard.co/about-us1
+A lightweight, multi-format reading engine and digital publishing platform built for Android. **zLibrary by BookBoard®** bridges independent literature, open-access archives, and offline document viewing into a clean, distraction-free environment.
 
 ---
 
-## ZLibrary by BookBoard – Free eBooks, Books & Novels Reading App
+## ⚡ Direct Navigation & Resources
 
-Looking for a safe and legal platform to read free ebooks, books, and novels online? ZLibrary by BookBoard is a modern ebook reading and publishing platform designed for readers, students, writers, and educators worldwide. Developed by BookBoard.Co, the platform offers thousands of free ebooks in PDF and EPUB formats across multiple genres including fiction, romance, science fiction, biographies, self-help, history, education, and more.
-
-Unlike illegal ebook websites, ZLibrary by BookBoard operates legally and focuses on public domain books, user-generated content, and author-published works. Readers can discover quality books and novels while writers can publish and promote their own ebooks to a global audience.
-
-## Why Readers Choose ZLibrary by BookBoard
-
-### Huge Collection of Free eBooks and Novels
-
-Explore a growing library of free ebooks, novels, academic books, public domain classics, educational PDFs, and user-uploaded content. Whether you enjoy romance novels, mystery books, fantasy stories, biographies, or study materials, there is something for every reader.
-
-### Read Online or Offline
-
-Download ebooks in PDF or EPUB format and enjoy offline reading anytime. The app is designed for smooth reading on Android devices, tablets, and desktops.
-
-### User-Friendly Reading Experience
-
-The clean and simple interface helps readers easily search books, discover trending novels, manage their library, and continue reading without distractions.
-
-### Legal and Safe Ebook Platform
-
-ZLibrary by BookBoard respects copyright laws and follows DMCA guidelines. The platform focuses on legal ebook distribution through public domain books, licensed content, and author submissions.
-
-### Publish and Share Your Own Books
-
-Writers and creators can upload and publish ebooks directly through BookBoard. Authors can share stories, novels, educational content, and original books with readers around the world.
-
-### Privacy-Focused Reading Platform
-
-Reader privacy and data security are important. The platform is designed to provide a safe and secure ebook reading experience without unnecessary data collection.
-
-## Features of ZLibrary by BookBoard
-
-* Free ebooks and novels in PDF and EPUB formats
-* Online EPUB reader for smooth reading
-* Offline ebook download support
-* Public domain and user-generated books
-* Bookmarks and reading progress sync
-* Fast search and category browsing
-* Legal ebook platform with DMCA compliance
-* Self-publishing options for authors
-* Educational books and academic resources
-* Mobile-friendly reading experience
-
-## Is ZLibrary by BookBoard Legal?
-
-Yes. ZLibrary by BookBoard is a completely legal ebook platform. The company operates independently and is not connected with piracy websites using similar names. All content available on the platform comes from public domain resources, author uploads, or properly shared materials.
-
-The platform also follows copyright protection policies and provides a DMCA process for content removal requests when required.
-
-## Best Platform for Readers and Writers
-
-ZLibrary by BookBoard is more than just an ebook app. It is a growing digital reading community where readers can discover books and writers can publish their work. From classic literature and educational ebooks to modern novels and original stories, the platform helps make reading accessible to everyone.
-
-Whether you want to read free novels online, download educational ebooks, or publish your own book, ZLibrary by BookBoard offers an easy and reliable solution.
-
-## Frequently Asked Questions
-
-### What is ZLibrary by BookBoard?
-
-ZLibrary by BookBoard is a legal ebook reading and publishing platform where users can read, download, and publish ebooks, books, novels, and educational content.
-
-### Can I read ebooks offline?
-
-Yes. Users can download books and read them offline in PDF or EPUB format.
-
-### Is ZLibrary by BookBoard free?
-
-Yes. Many ebooks and novels are available for free reading and download.
-
-### Can authors publish books on BookBoard?
-
-Yes. Writers and creators can upload and publish original ebooks directly through the platform.
-
-### Is the platform safe to use?
-
-Yes. The platform focuses on legal content, user privacy, and secure reading experiences.
+* **Application Installer:** [bookboard.co/Install](https://bookboard.co/Install)
+* **Official Application Portal:** [bookboard.co/zlibrary-by-bookboard-app](https://bookboard.co/zlibrary-by-bookboard-app)
+* **Publisher & Author Network:** [bookboard.co/author-services](https://bookboard.co/author-services)
+* **Legal Documentation & DMCA Portal:** [bookboard.co/copyright](https://bookboard.co/copyright)
+* **Community Guidelines:** [bookboard.co/community-guidelines](https://bookboard.co/community-guidelines)
+* **Privacy Charter:** [bookboard.co/privacy-policy](https://bookboard.co/privacy-policy)
 
 ---
 
-# SEO-Friendly Rewrite for About Us Page
+## 📖 Platform Overview
 
-## About BookBoard.Co
+**zLibrary by BookBoard®** provides an ethical, secure, and performant reading application for students, creators, researchers, and book lovers. The application operates strictly within international intellectual property boundaries, aggregating cataloged public domain masterpieces, open-access academic works, and community-published original writing.
 
-BookBoard.Co is a digital publishing and ebook reading platform dedicated to making books, ebooks, and novels accessible to readers around the world. Our mission is to create a safe, legal, and reader-friendly ecosystem where people can discover free ebooks, read novels online, and publish original content.
-
-Through ZLibrary by BookBoard, we provide access to public domain books, educational resources, author-uploaded content, and user-generated ebooks in multiple genres. From classic literature and academic materials to modern fiction and self-published novels, our platform supports both readers and writers.
-
-## Our Mission
-
-Our goal is to encourage reading, creativity, and knowledge sharing through technology. We believe books should be more accessible, affordable, and easier to discover for readers worldwide.
-
-We also aim to support independent authors and creators by giving them a platform to publish and promote their ebooks, novels, and educational content.
-
-## What Makes BookBoard Different?
-
-### Legal and Copyright-Respecting Platform
-
-BookBoard.Co operates legally and follows copyright laws, DMCA guidelines, and responsible publishing practices. We are committed to protecting authors’ rights and maintaining a trustworthy reading platform.
-
-### Large Collection of Free eBooks
-
-Readers can explore thousands of free ebooks, novels, and public domain books in categories such as fiction, romance, science fiction, biographies, history, religion, education, and self-help.
-
-### Reader and Author Community
-
-BookBoard is designed not only for readers but also for writers. Authors can publish books, share stories, and connect with readers globally.
-
-### Multi-Format Reading Experience
-
-Our platform supports popular ebook formats including PDF and EPUB, making reading flexible across devices.
-
-## Our Vision
-
-We envision a global reading platform where readers can easily access books and writers can freely share knowledge, creativity, and stories with the world.
-
-As digital reading continues to grow, BookBoard.Co aims to become one of the leading platforms for legal free ebooks, online reading, and independent publishing.
-
-## Why Readers Trust BookBoard.Co
-
-* Legal ebook reading platform
-* Free access to ebooks and novels
-* Reader-friendly interface
-* Secure and privacy-focused experience
-* Independent publishing support for authors
-* Public domain and educational resources
-* Growing collection of books and novels
-
-## Join the BookBoard Community
-
-Whether you are a passionate reader searching for free ebooks and novels or an author ready to publish your own work, BookBoard.Co welcomes you.
-
-Discover books, read ebooks online, publish stories, and become part of a growing digital reading community built for readers and writers worldwide.
+The integrated native engine eliminates the friction of switching between multiple reading apps by rendering documents, digital comics, plain text manuscripts, and spoken-word audio within a unified, battery-efficient interface.
 
 
-## ✨ Key Features
+```
 
-- Large collection of ebooks
-- Wide range of books categories
-- Popular and classic novels
-- Fast and smooth reading experience
-- Lightweight Android app
-- Clean and modern UI
-- Search and discovery system
-- Regular content updates
-- Community-driven improvements
-- Legal compliance structure
+```
+                          ┌─────────────────────────────────────────┐
+                          │       zLibrary by BookBoard Engine      │
+                          └────────────────────┬────────────────────┘
+                                               │
+     ┌───────────────────┬─────────────────────┼─────────────────────┬───────────────────┐
+     ▼                   ▼                     ▼                     ▼                   ▼
+
+```
+
+[EPUB Reader]       [PDF Engine]          [Comic Suite]         [Text & Web]       [Audio Player]
+Reflowable Text     Vector Zoom           CBZ / CBR View        Plain TXT / HTML   M4B / MP3 Media
+Custom Themes       Page Jumping          PhotoView Gestures    AMOLED CSS Styling Background Playback
+
+```
 
 ---
 
-## ⚖️ Legal & Compliance
+## 🚀 Key Functional Capabilities
 
-Zlibrary by BookBoard follows strict intellectual property and copyright compliance.
+### 1. Multi-Format Native Rendering Engine
+* **eBooks (EPUB & PDF):** Dynamic typography, fluid pagination, font scaling, table of contents navigation, and vector document caching.
+* **Comics & Manga (CBZ & CBR):** Hardware-accelerated image scaling with double-tap zoom, swipe controls, and full-screen immersion.
+* **Text & Web Files (TXT, HTML, HTM):** Dedicated zero-lag reader view that converts unformatted text and web documents into clean, book-styled layouts.
+* **Audiobook Streaming & Playback (M4B, MP3):** Integrated media playback featuring seek controls, sleep timers, and resume markers.
 
-Licensing Policy:
-https://bookboard.co/licensing
+### 2. Ergonomic Reading & Display Customization
+* **Adaptive Viewing Modes:** Instant toggling between **Day**, **Night (AMOLED Pure Black)**, and **Sepia** palettes to minimize eye fatigue.
+* **Reading Continuity:** Automated location-tracking down to paragraph offsets and pages, synced across offline launches.
+* **Precision Controls:** Integrated brightness sliders, volume-button navigation, and auto-scroll functionality.
 
-Privacy Policy:
-https://bookboard.co/privacy-policy
-
-Legal Information:
-https://bookboard.co/legality
-
-Copyright Policy:
-https://bookboard.co/copyright
-
-Community Guidelines:
-https://bookboard.co/community-guidelines
-
-Author Services:
-https://bookboard.co/author-services
-
-FAQ:
-https://bookboard.co/faq-new
+### 3. Storage Access Framework (SAF) & Library Vault
+* Direct folder synchronization using Android's native Storage Access Framework.
+* Real-time duplicate management utilizing non-blocking **CRC32 checksum algorithms** to eliminate memory bloat and redundant files.
+* Offline-first local database architecture ensuring uninterrupted offline access without forced telemetry.
 
 ---
 
-## 🛡️ Copyright & Content Policy
+## 🛡️ Legal Compliance, Brand Authenticity & DMCA Notice
 
-- Respect for authors and publishers
-- Compliance with copyright regulations
-- Removal mechanism for reported content
-- Community-based moderation
-- Transparent licensing framework
+### Registered Trademark Notice
+**Zlibrary®** is an officially registered trademark of BookBoard in India. All platform services, mobile software distributions, and community tools are proprietary properties operating under brand authentication. Any unauthorized cloning, redistribution of package files, or trademark misuse will be met with enforcement under applicable intellectual property laws.
 
-For detailed copyright information:
-https://bookboard.co/copyright
+### Independent Operation & Disambiguation
+zLibrary by BookBoard® operates as an independent platform engineered by **BookBoard.co**. 
 
----
+* The application **is not connected, affiliated, authorized, or associated** with any unauthorized third-party file repositories, shadow libraries, or rogue distribution networks.
+* The platform does not scrape, host, mirror, or index content from unlicensed digital clearinghouses.
 
-## 👥 Community Guidelines
+### Content Provenance
+All literature made available via BookBoard's network is sourced from:
+1. **Public Domain Collections:** Classic cultural literature whose statutory copyright protections have expired naturally under international copyright frameworks.
+2. **Open-Access / Creative Commons Licensing:** Educational, scientific, or literary texts released for royalty-free distribution.
+3. **Direct Self-Publishing:** Verified independent authors, novel writers, and educators publishing directly through BookBoard author utilities.
 
-Users are expected to follow community rules to maintain a healthy reading environment.
+### Copyright Enforcement (DMCA Protocol)
+BookBoard maintains strict operational adherence to international copyright standards, including the Digital Millennium Copyright Act (DMCA). Prompt review and remediation pipelines are maintained for verified rights holders.
 
-Read full guidelines:
-https://bookboard.co/community-guidelines
+To submit a formal notice of infringement, submit a detailed notification containing:
+* Identification of the copyrighted work claimed to have been infringed.
+* Direct URL/Locator of the specific file or content entry point.
+* Verifiable contact information (Full Legal Name, Organization, Address, Telephone, and Email).
+* A physical or electronically authorized signature alongside standard statutory statements of good-faith belief and accuracy under penalty of perjury.
 
----
-
-## ✍️ Author Services
-
-BookBoard supports authors and publishers by providing structured services.
-
-Learn more:
-https://bookboard.co/author-services
-
----
-
-## 📱 Download the App
-
-Official download page:
-https://bookboard.co/Install
+Direct all copyright inquiries and removal notices to: **[bookboard.co/copyright](https://bookboard.co/copyright)**
 
 ---
 
-## 🌍 SEO Keywords
+## ✍️ Author & Creator Network
 
-ebooks  
-books  
-novels  
-reading app  
-digital library  
-ebook reader  
-free books  
-android reading app  
-bookboard  
-zlibrary  
-z library app  
-zlibrary app  
-legal alternative to zlibrary  
-zlibrary by bookboard  
-ebook library app  
-books reading app  
-novels reading app  
-online ebook reader  
-free ebooks app  
-best reading app android  
-ebooks  
-books  
-novels  
-reading app  
-digital library  
-ebook reader  
-free books  
-android reading app  
-bookboard  
-zlibrary by bookboard  
+BookBoard empowers independent writers, educators, and content creators with distribution, portfolio visibility, and engagement tracking.
+
+* **Frictionless Publishing:** Package and publish digital manuscripts directly to a growing reading audience.
+* **Rights Ownership:** Authors retain complete control and intellectual property rights over their self-published works.
+* **Reader Reach:** Transparent catalog organization allows readers to discover emerging writers across fantasy, romance, historical analysis, academic curricula, and self-help literature.
+
+Discover self-publishing workflows: **[bookboard.co/author-services](https://bookboard.co/author-services)**
 
 ---
 
-## 🔐 Transparency & Trust
+## 🔧 Technical Stack Summary
 
-This repository is created to improve:
-
-- Visibility
-- Transparency
-- Legal clarity
-- User trust
-- Brand authenticity
-
----
-
-## © Copyright
-
-© 2026 BookBoard. Zlibrary® is a registered trademark of BookBoard in India. All rights reserved.
-
-Zlibrary by BookBoard is a registered and protected brand.  
-Unauthorized copying, cloning, or redistribution is prohibited.
+| Architecture Layer | Core Technologies |
+| :--- | :--- |
+| **Language & Runtimes** | Java / Kotlin, Android SDK |
+| **Document Decoders** | Optimized FolioReader Engine, Native `PdfRenderer`, Custom WebKit Renderers |
+| **Media & Comics** | Custom Archive Extractor, TouchImageView / PhotoView, AndroidX Media3 Core |
+| **Background Tasks** | AndroidX `WorkManager`, Multi-Threaded Execution Pipelines |
+| **Data & Storage** | Android Storage Access Framework (SAF), SQLite / Encrypted Persistence |
 
 ---
 
-## 📬 Contact
+## ❓ Frequently Asked Questions
 
-Website:
-https://bookboard.co
+#### Is zLibrary by BookBoard free to access?
+Yes. The platform provides access to a large repository of open-access literature, educational works, and public domain classics at zero monetary cost.
 
-For legal or copyright requests, please visit:
-https://bookboard.co/copyright
+#### Does the reader function without an active internet connection?
+Yes. The integrated file reader functions as an offline document utility. Any imported or downloaded book can be launched, read, and customized entirely without data connectivity.
+
+#### Can I import my own external collection?
+Yes. Readers can use the system file picker or designated storage directories to import personal `.epub`, `.pdf`, `.cbz`, `.cbr`, `.txt`, `.html`, and `.m4b` files directly into their local library shelves.
+
+#### How do independent writers submit books?
+Writers can register directly via [BookBoard Author Services](https://bookboard.co/author-services) to upload original manuscripts and connect with our global reading community.
+
+---
+
+## 📬 Official Inquiries & Community Links
+
+* **Official Domain:** [https://bookboard.co](https://bookboard.co)
+* **Licensing Guidelines:** [https://bookboard.co/licensing](https://bookboard.co/licensing)
+* **Compliance Documentation:** [https://bookboard.co/legality](https://bookboard.co/legality)
+* **Support & Platform Inquiries:** [https://bookboard.co/about-us1](https://bookboard.co/about-us1)
+
+
+```
+
+Copyright © 2026 BookBoard.Co. All Rights Reserved.
+Zlibrary® is a registered trademark of BookBoard in India.
+All third-party product names, logos, and brands are property of their respective owners.
+
+```
